@@ -1,2 +1,2 @@
 # public-user
-![alt text.](/images/login.gif "Login Page.")
+![Login Page](/images/login.gif "User login")
