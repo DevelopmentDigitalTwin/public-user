@@ -32,7 +32,7 @@ This project solves your ML model building problems efficiently!
 
 6. Make modeling pipeline:
 ##### MVP Limitation:
-      - all coulmns must be numerical
+      - all columns must be numerical
       - one transformer and one model must be added to pipeline
       - just could use imputation (dropna) as transformer
       - just could use linear regression (xgboost) as model
