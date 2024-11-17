@@ -19,7 +19,7 @@ This project solves your ML model building problems efficiently!
 ##### MVP Limitation:
          - just could use CSV files as datasource
 4. Upload training  CSV files:
-       ### MVP Limitation:
+##### MVP Limitation:
          - just could upload atmost 10MB CSV files
 
    ![Upload File Page](/images/train-file-slim.gif "upload train csv file")
