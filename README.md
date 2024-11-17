@@ -32,7 +32,7 @@ This project solves your ML model building problems efficiently!
 
 7. upload prediction csv file:
 
-    ![Upload File Page](/images/predict-file.gif "upload prediction csv file")
+    ![Upload File Page](/images/predict-file-slim.gif "upload prediction csv file")
 
 8. create prediction dataset
 
