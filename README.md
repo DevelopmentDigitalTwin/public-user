@@ -29,6 +29,7 @@ This project solves your ML model building problems efficiently!
     ![Dataset Page](/images/train-dataset.gif "create train dataset")
 
 ## Build and run ML Models:
+
 6. Make modeling pipeline:
 ##### MVP Limitation:
       - all coulmns must be numerical
@@ -59,6 +60,7 @@ This project solves your ML model building problems efficiently!
 
  
 ## Visualize predicted data 
+
 11. download predicted values
 ##### MVP Limitation:
          - just could add (download) predicted values as CSV file to datasources
