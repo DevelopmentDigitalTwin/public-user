@@ -73,11 +73,11 @@ This project solves your ML model building problems efficiently!
 
 15. Make dashboard using new dataset:
     
-   Part1:
+   Make Graph:
    
    ![Dashboard Page](/images/dashboard01.gif "create dashboard of predicted values")
 
-   Part2:
+   Make Dashboard:
    
    ![Dashboard Page](/images/dashboard02.gif "create dashboard of predicted values")
    
