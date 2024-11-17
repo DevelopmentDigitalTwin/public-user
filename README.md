@@ -32,7 +32,7 @@ This project solves your ML model building problems efficiently!
 
 6. Make modeling pipeline:
 ##### MVP Limitation:
-      - all input and output columns must be numerical
+      - all inputs and output columns must be numerical
       - one transformer and one model must be added to pipeline
       - just could use imputation (dropna) as transformer
       - just could use linear regression (xgboost) as model
@@ -73,7 +73,7 @@ This project solves your ML model building problems efficiently!
 
 15. Make dashboard using new dataset:
 
-    ![Dashboard Page](/images/dashboard.gif "create dashboard of predicted values")
+    ![Dashboard Page](/images/dashboard01.gif "create dashboard of predicted values")
     
 
    
