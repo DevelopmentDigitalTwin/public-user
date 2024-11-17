@@ -67,11 +67,11 @@ This project solves your ML model building problems efficiently!
     
    ![Add New File](/images/predicted-download.gif "download predicted values as e new data source")
 
-13. Make new dataset from prediction and predicted files:
+13. Make new dataset using prediction and predicted files:
 
      ![Dataset Page](/images/predicted-dataset.gif "create dataset of prediction and predicted values")
 
-15. Make dashboard from prediction and predicted dataset:
+15. Make dashboard using new dataset:
 
     ![Dashboard Page](/images/login.gif "create dashboard of predicted values")
     
