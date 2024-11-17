@@ -33,6 +33,7 @@ This project solves your ML model building problems efficiently!
 ##### MVP Limitation:
       - just could use imputation (dropna) as transformer
       - just could use linear regression (xgboost) as model
+      - other modeling settins such as column types, scaling methods, evaluation metrics and tuning parameters are set by defaut values.
         
    ![Model Pipeline Page](/images/model-build-slim.gif "train linear regression model")
 
