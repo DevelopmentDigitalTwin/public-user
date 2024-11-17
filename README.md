@@ -65,7 +65,7 @@ This project solves your ML model building problems efficiently!
 ##### MVP Limitation:
          - just could add (download) predicted values as CSV file to datasources
     
-    ![Add New File](/images/predicted-download.gif "download predicted values as e new data source")
+   ![Add New File](/images/predicted-download.gif "download predicted values as e new data source")
 
 13. Make new dataset from prediction and predicted files:
 
