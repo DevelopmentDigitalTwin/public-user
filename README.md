@@ -19,7 +19,7 @@ This project solves your ML model building problems efficiently!
 4. Upload training  CSV files:
     at this verision you could upload atmost 10MB CSV files
 
-   ![Upload File Page](/images/train-file.gif "upload train csv file")
+   ![Upload File Page](/images/train-file-slim.gif "upload train csv file")
 
 5. Make training datasets:
 
