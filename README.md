@@ -17,7 +17,7 @@ This project solves your ML model building problems efficiently!
 
 ## Upload Training Data
 ##### MVP Limitation:
-         - just could upload CSV files
+         - just could use CSV files as datasource
 4. Upload training  CSV files:
        ### MVP Limitation:
          - just could upload atmost 10MB CSV files
@@ -31,8 +31,8 @@ This project solves your ML model building problems efficiently!
 ## Build and run ML Models:
 6. Make modeling pipeline:
 ##### MVP Limitation:
-      - from transformers just could use imputation and dropna
-      - from models just could use linear regression with xgboost trainer
+      - just could use imputation (dropna) as transformer
+      - just could use linear regression (xgboost) as model
         
    ![Model Pipeline Page](/images/model-build-slim.gif "train linear regression model")
 
@@ -58,7 +58,7 @@ This project solves your ML model building problems efficiently!
 ## Visualize predicted data 
 11. download predicted values
 ##### MVP Limitation:
-         - just could download predicted values as CSV files
+         - just could add (download) predicted values as CSV file to datasources
     
     ![Add New File](/images/predicted-download.gif "download predicted values as e new data source")
 
