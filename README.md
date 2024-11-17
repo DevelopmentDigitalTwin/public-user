@@ -16,7 +16,7 @@ This project solves your ML model building problems efficiently!
     ![Login Page](/images/login.gif "user login")
 
 ## Upload Training Data
-       ### MVP Limitation:
+### MVP Limitation:
          - just could upload CSV files
 4. Upload training  CSV files:
        ### MVP Limitation:
