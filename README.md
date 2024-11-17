@@ -44,7 +44,7 @@ This project solves your ML model building problems efficiently!
 ##### MVP Limitation:
          - just could upload atmost 10MB CSV files
    
-    ![Upload File Page](/images/predict-file-slim.gif "upload prediction csv file")
+   ![Upload File Page](/images/predict-file-slim.gif "upload prediction csv file")
 
 10. create prediction dataset
 
