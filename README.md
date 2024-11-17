@@ -31,9 +31,11 @@ This project solves your ML model building problems efficiently!
 ## Build and run ML Models:
 6. Make modeling pipeline:
 ##### MVP Limitation:
+      - all coulmns must be numerical
+      - one transformer and one model must be added to pipeline
       - just could use imputation (dropna) as transformer
       - just could use linear regression (xgboost) as model
-      - other modeling settins such as column types, scaling methods, evaluation metrics and tuning parameters are set by defaut values.
+      - other modeling settins such as column types, scaling methods, evaluation metrics and tuning parameters are set by defaut values
         
    ![Model Pipeline Page](/images/model-build-slim.gif "train linear regression model")
 
