@@ -75,11 +75,11 @@ This project solves your ML model building problems efficiently!
     
    Part1:
    
-    ![Dashboard Page](/images/dashboard01.gif "create dashboard of predicted values")
+   ![Dashboard Page](/images/dashboard01.gif "create dashboard of predicted values")
 
    Part2:
    
-    ![Dashboard Page](/images/dashboard02.gif "create dashboard of predicted values")
+   ![Dashboard Page](/images/dashboard02.gif "create dashboard of predicted values")
    
 
 
