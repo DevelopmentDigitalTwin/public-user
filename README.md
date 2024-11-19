@@ -2,6 +2,8 @@
 
 This project solves your ML model building problems efficiently!
 
+   ![Infrastructure Page](/images/infrastructure.gif "system infrastructure")
+
 ## Getting Started
 1. type url:
 
